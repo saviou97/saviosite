@@ -1,6 +1,3 @@
-# One Page Portfolio - Bento Box
-
-Este é um template simples e elegante de portfólio one-page no estilo Bento Box. Ideal para desenvolvedores e profissionais que desejam apresentar suas habilidades, projetos e informações de contato de forma clara e direta.
 
 ## Tecnologias Utilizadas
 
@@ -8,15 +5,12 @@ Este é um template simples e elegante de portfólio one-page no estilo Bento Bo
 - CSS3
 - FontAwesome
 
-## Estrutura do Projeto
 
 ### Arquivos e Pastas
 
 - `index.html`: Estrutura principal do site.
 - `css/style.css`: Estilos principais do site.
 - `css/responsive.css`: Estilos responsivos para diferentes tamanhos de tela.
-- `image/sua-foto-perfil.png`: Imagem de perfil do usuário (substitua pelo seu).
-- `image/seu-projeto-destaque.png`: Imagem do projeto em destaque (substitua pelo seu).
 
 ### Estrutura HTML
 
@@ -34,13 +28,6 @@ O site é dividido em três seções principais, cada uma representada por um wi
    - Descreve os serviços oferecidos pelo usuário.
    - Informações de contato com um botão para iniciar uma conversa.
 
-## Como Usar
-
-1. Clone este repositório ou baixe os arquivos para o seu computador.
-2. Substitua as imagens de exemplo (`sua-foto-perfil.png` e `seu-projeto-destaque.png`) pelas suas próprias imagens.
-3. Atualize o conteúdo HTML com suas informações pessoais, projetos e detalhes de contato.
-4. Customize os estilos no arquivo `style.css` conforme necessário.
-5. Use o arquivo `responsive.css` para ajustar o design responsivo para diferentes dispositivos.
 
 ## Fontes e Recursos
 
@@ -51,18 +38,12 @@ O site é dividido em três seções principais, cada uma representada por um wi
 
 Se você quiser contribuir com melhorias para este template, sinta-se à vontade para abrir um pull request ou relatar problemas na seção de issues.
 
-## Licença
+## Minhas redes Sociais
 
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
-
-## Me Marque!
-
-Este template é livre para uso, mas adoraria ver como você o utiliza! Se você usar este template, por favor, me marque ou poste nas redes sociais e me marque:
-
-- [Instagram](https://www.instagram.com/riicardomoura/)
-- [TikTok](https://www.tiktok.com/@riicardomoura)
-- [LinkedIn](https://www.linkedin.com/in/ricardomouradev/)
+- [Instagram](https://www.instagram.com/saviou97/)
+- [TikTok](https://www.tiktok.com/@bagrefps)
+- [LinkedIn](https://www.linkedin.com/in/saviou97/)
 
 ---
 
-Feito com ❤️ por RICARDO MOURA DEV
+Feito com ❤️ por Sávio Santos
